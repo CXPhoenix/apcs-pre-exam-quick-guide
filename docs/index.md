@@ -34,6 +34,6 @@ features:
       src: /Attribution 4 AI Graphic - By AI Not for Profit .png
       alt: AI 授權
     title: AI 授權：By AI Not for Profit
-    details: Generated entirely by Humans with minimal or no AI support (for profit).
+    details: Generated entirely by AI with or without human prompts or instructions (not for profit).
 ---
 
