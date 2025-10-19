@@ -1,6 +1,10 @@
-- text: Examples
+- text: 識讀
   items:
-    - text: Markdown 使用範例
-      link: /markdown-examples
-    - text: Runtime API 使用範例
-      link: /api-examples
+    - text: 識讀懶人包
+      link: /01-APCS-識讀考前小冊
+- text: 實作
+  items:
+    - text: 初級實作懶人包
+      link: 02-APCS-初級實作小冊
+    - text: 中級實作懶人包
+      link: 03-APCS-中級實作小冊
