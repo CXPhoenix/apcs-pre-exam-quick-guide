@@ -16,6 +16,13 @@
     "vitepress": "^1.6.3"
   },
   "dependencies": {
+<<<<<<< HEAD
     "vue": "^3.5.17"
   }
 }
+=======
+    "js-yaml": "^4.1.0",
+    "vue": "^3.5.17"
+  }
+}
+>>>>>>> 3c237d4 (Initialize feat/yaml-doc-defined)
